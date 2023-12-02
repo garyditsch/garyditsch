@@ -5,7 +5,7 @@ I’m currently the Chief Product Officer at VividCharts
 We build products that help ServiceNow customers utilize their ServiceNow data to answer critical business questions, by automating their operational reports. Our applications focus on the data, design and delivery processes necessary to obtain the value from their stored information. 
 
 ## What am I interested in?
-I’m continue to learn anything I can about data visualization, analysis, and software development. 
+I continue to learn anything I can about data visualization, analysis, and software development. 
 
 ## Top 5 list of current tools and technology I am interested in for continued learning:
 - ServiceNow Implementations
