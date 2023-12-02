@@ -1,4 +1,5 @@
-## Hi my name is Gary Ditsch. I’m currently the Chief Product Officer at VividCharts
+## Hi my name is Gary Ditsch. 
+I’m currently the Chief Product Officer at VividCharts
 
 ## What do we do at VividCharts?
 We build products that help ServiceNow customers utilize their ServiceNow data to answer critical business questions, by automating their operational reports. Our applications focus on the data, design and delivery processes necessary to obtain the value from their stored information. 
