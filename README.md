@@ -13,6 +13,7 @@ I continue to learn anything I can about data visualization, analysis, and softw
 - Snowflake / Streamlit (Have a personal exercise tracking dashboard as my playground)
 - NextJs (I have a couple personal sites and applications built with Next)
 - Remix (Just started building with it)
+- Astro (Rebuilding an older GatsbyJS site with it currently as my first entry to the framework)
 
 ## Other tools, languages and skills
 - React
