@@ -7,13 +7,21 @@ We build products that help ServiceNow customers utilize their ServiceNow data t
 ## What am I interested in?
 I continue to learn anything I can about data visualization, analysis, and software development. 
 
-## Top 5 list of current tools and technology I am interested in for continued learning:
+## List of current tools and technology I am interested in for building web applications and content sites:
+- Have to say 'Anything AI', right?
 - ServiceNow Implementations
 - ServiceNow App Development (VividCharts is built upon ServiceNow's Next Experience platform)
 - Snowflake / Streamlit (Have a personal exercise tracking dashboard as my playground)
 - NextJs (I have a couple personal sites and applications built with Next)
-- Remix (Just started building with it)
-- Astro (Rebuilding an older GatsbyJS site with it currently as my first entry to the framework)
+- Astro
+  - Rebuilt Happer and Healthier you website with it, also built the Big Red Charts site with it.
+
+## Current data analysis tools being used
+- Jupyter Labs
+  - Use for processing, cleaning, transforming and analysis
+- DuckDB
+  - Use to store data that is data sets capture via apis or csv files
+- DBeaver (Easy too to write queries and see DuckDB prior to jumping into Jupyter Labs)
 
 ## Other tools, languages and skills
 - React
